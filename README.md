@@ -34,7 +34,7 @@ It supports full **CRUD (Create, Read, Update, Delete)** operations using **SQLi
 
 ## Download APK
 
-[Download Storekeeper App (Release APK)](https://github.com/wakilspace/storekeeper_app/releases/download/v1.0.0/app-release.apk)
+[Download Storekeeper App (Release APK)](https://github.com/Wakilspace/strore_keeper_app/releases/download/v1.0.0/app-release.apk)
 
 ---
 
