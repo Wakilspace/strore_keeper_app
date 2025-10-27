@@ -1,16 +1,55 @@
-# storekeep_app
 
-A new Flutter project.
+# 🏪 Storekeeper App
 
-## Getting Started
+A clean and simple **Flutter inventory management app** that helps users manage product inventory locally.  
+It supports full **CRUD (Create, Read, Update, Delete)** operations using **SQLite** and integrates a **native camera/gallery feature** for product images.  
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+##  Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+-  Add, view, edit, and delete products  
+-  Capture or upload product images directly within the app  
+-  Local SQLite database (Sqflite) — no internet required  
+-  Reactive state management using Provider  
+-  Clean, modern UI with Light & Dark theme support  
+-  Fully responsive layout
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+##  Tech Stack
+
+| **Frontend** | Flutter (Dart) |
+| **Local Database** | SQLite using Sqflite & Path Provider |
+| **State Management** | Provider |
+| **Image Capture** | Image Picker (Camera + Gallery) |
+| **Architecture** | MVVM-style (Model-View-ViewModel) |
+
+---
+
+## 🎬 Demo Video
+
+🎥 [Watch the 3-minute walkthrough on Google Drive](https://drive.google.com/your-demo-video-link-here)
+
+---
+
+## 📲 Download APK
+
+⬇️ [Download Storekeeper App (Release APK)](https://github.com/wakilspace/storekeeper_app/releases/download/v1.0.0/app-release.apk)
+
+---
+
+## 🧾 Setup Instructions
+
+Follow these steps to run the app locally:
+
+```bash
+# 1️⃣ Clone the repository
+git clone https://github.com/wakilspace/storekeeper_app.git
+cd storekeeper_app
+
+# 2️⃣ Install dependencies
+flutter pub get
+
+# 3️⃣ Run the app
+flutter run

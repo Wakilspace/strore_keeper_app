@@ -66,7 +66,7 @@ class DatabaseHelper {
 
   // --- Close DB ---
   Future close() async {
-    final db = await DatabaseHelper._database;
+    final db = DatabaseHelper._database;
     db?.close();
   }
 }
