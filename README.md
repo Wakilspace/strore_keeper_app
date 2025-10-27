@@ -27,29 +27,28 @@ It supports full **CRUD (Create, Read, Update, Delete)** operations using **SQLi
 
 ---
 
-## 🎬 Demo Video
-
-🎥 [Watch the 3-minute walkthrough on Google Drive](https://drive.google.com/your-demo-video-link-here)
-
----
-
-## 📲 Download APK
-
-⬇️ [Download Storekeeper App (Release APK)](https://github.com/wakilspace/storekeeper_app/releases/download/v1.0.0/app-release.apk)
+##  Demo Video
+[Watch the walkthrough on Google Drive](https://drive.google.com/file/d/1O76ouBtaQcZkw6euZLBUI_5vlCWZdBVY/view?usp=sharing)
 
 ---
 
-## 🧾 Setup Instructions
+## Download APK
+
+[Download Storekeeper App (Release APK)](https://github.com/wakilspace/storekeeper_app/releases/download/v1.0.0/app-release.apk)
+
+---
+
+## Setup Instructions
 
 Follow these steps to run the app locally:
 
 ```bash
-# 1️⃣ Clone the repository
+#  Clone the repository
 git clone https://github.com/wakilspace/storekeeper_app.git
 cd storekeeper_app
 
-# 2️⃣ Install dependencies
+#  Install dependencies
 flutter pub get
 
-# 3️⃣ Run the app
+# Run the app
 flutter run
